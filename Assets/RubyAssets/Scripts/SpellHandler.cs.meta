@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c38c65fa39a21ee41b60024ce8310806
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - notEnoughEnergyAudioClip: {fileID: 8300000, guid: 28025d6211eebc843baf9d91ac83655f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

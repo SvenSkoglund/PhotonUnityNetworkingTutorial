@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &510200149783621027
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5657988800041847208}
+  - component: {fileID: 117344736912671029}
+  m_Layer: 0
+  m_Name: GameAssets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5657988800041847208
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 510200149783621027}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.2209678, y: -0.1860039, z: -0.11568003}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &117344736912671029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 510200149783621027}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ff96b4d04c8b74d8914e7c219efa05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pfCombatText: {fileID: 6406912459288529614, guid: 371a703d2d3a2834cadc24973e8aded3,
+    type: 3}
+  pfSpellIcon: {fileID: 1717410930158074601, guid: 232ea0c2252002e439d626e00189c54c,
+    type: 3}
+  clickHandler: {fileID: 0}
+  dashEffect: {fileID: 7349800440167844937, guid: 8ae3bd3dc45465d4b87e0e8fc61af0c2,
+    type: 3}
+  rageEffect: {fileID: 4010462390695936474, guid: cc13144438f342645a5d29030cf56461,
+    type: 3}
+  spinEffect: {fileID: 4329482084588461971, guid: 983079d71fcd9184fa20e543c3571a9b,
+    type: 3}
+  cutEffect: {fileID: 8099489275625047823, guid: 278e53069d85a674abca461db0f5f284,
+    type: 3}
+  crippleEffect: {fileID: 8785438620155867967, guid: cdd257ac6f59bdc4f94e9d3975f8ddf2,
+    type: 3}

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b384234aab6198f4ea7f711804c2e35a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pfCombatText: {instanceID: 0}
+  - clickHandler: {instanceID: 0}
+  - dashEffect: {fileID: 7349800440167844937, guid: 8ae3bd3dc45465d4b87e0e8fc61af0c2,
+      type: 3}
+  - rageEffect: {fileID: 4010462390695936474, guid: cc13144438f342645a5d29030cf56461,
+      type: 3}
+  - spinEffect: {fileID: 8205277648607891388, guid: 983079d71fcd9184fa20e543c3571a9b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

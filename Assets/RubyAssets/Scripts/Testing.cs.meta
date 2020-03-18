@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f5d7796c10ca46c4aae39d96ae6feef9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pfDashDeffect: {fileID: 7349800440167844937, guid: 8ae3bd3dc45465d4b87e0e8fc61af0c2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
